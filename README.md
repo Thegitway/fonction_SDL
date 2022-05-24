@@ -1,6 +1,6 @@
 # function_SDL
 This desktop app is made with C and SDL in 2012, it show all different function provided by the user in a 2D window, and the drawing of the function has no limits, so you can go to infinity
-## Exigence
+## Requirement
 
 - [SDL]([https://nodejs.org/en/](https://wiki.libsdl.org/Installation))
 
